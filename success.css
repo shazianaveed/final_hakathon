@@ -1,0 +1,26 @@
+
+.navbar{
+    background-color: grey;
+}
+/* .purse{
+    position: absolute;
+    right: 10px;
+    top: 100px;
+} */
+.id{
+    background-color: rgb(227, 189, 195);
+    width: 300px;
+    padding: 50px;
+}
+.cloth{
+    width: 200px;
+    height: 206px;
+    margin: 20px;
+}
+.id3{
+    height: 300px;
+    width: 300px;
+    background-color:lightgray;
+    margin: 10px;
+}
+
